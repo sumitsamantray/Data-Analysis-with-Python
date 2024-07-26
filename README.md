@@ -1,3 +1,5 @@
+# Diwali Sale Analysis (EDA)
+
 # Tech Stacks
 1. Python
 2. Jupyter Notebook
